@@ -1,0 +1,50 @@
+msgid "Access Control"
+msgstr ""
+
+msgid ""
+"Access Control allows you to manage Internet access for specific local hosts."
+"<br/> Each rule defines a device to block from having Internet access. The "
+"rules may be active permanently or during certain times of the day.<br/> The "
+"rules may also be restricted to specific days of the week.<br/> Any device "
+"that is blocked may obtain a ticket suspending the restriction for a "
+"specified time."
+msgstr "访问控制使您可以管理特定本地主机的Internet访问。每个规则都定义了阻止访问Internet的设备。规则可以永久生效或在一天中的某些时间生效。规则也可以在一周中的特定日期生效。任何被阻止的设备都会在指定的时间或日期中止Internet访问。"
+
+msgid "Client Rules"
+msgstr "设备规则"
+
+msgid "End time"
+msgstr "结束时间"
+
+msgid "General settings"
+msgstr "常规设置"
+
+msgid "Internet Access Control"
+msgstr "访问控制"
+
+msgid "Issue"
+msgstr "取消控制"
+
+msgid "MAC address"
+msgstr "MAC地址"
+
+msgid "MTWTFSS"
+msgstr ""
+
+msgid "Must be set to enable the internet access blocking"
+msgstr "启用访问控制"
+
+msgid "Start time"
+msgstr "开始时间"
+
+msgid "Ticket"
+msgstr "控制"
+
+msgid "Ticket time [min]"
+msgstr "控制时间[分钟]"
+
+msgid "Time granted when a ticket is issued"
+msgstr "取消访问控制时间"
+
+msgid "Time value must be HH:MM or empty"
+msgstr "时间格式必须为HH:MM或空"
